@@ -28,6 +28,7 @@ images or shared objects.
 
 
 ## License
+
 Each GraalVM component is licensed:
 * [Truffle](/truffle/) and its dependency [Graal SDK](/sdk/) are licensed under
 the [GPL 2 with Classpath exception](truffle/LICENSE.GPL.md).
